@@ -1,0 +1,16 @@
+﻿  cmdline.cpp
+  imagen.cpp
+  main.cpp
+T:\Tobias\algo2\nnRepo\tp1\main.cpp(155,38): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+T:\Tobias\algo2\nnRepo\tp1\main.cpp(156,38): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  modulo_funcion_compleja.cpp
+  Generating Code...
+  tpFinalAlgo2.vcxproj -> T:\Tobias\algo2\nnRepo\tp1\Visual Studio Project\tpFinalAlgo2\Debug\tpFinalAlgo2.exe
